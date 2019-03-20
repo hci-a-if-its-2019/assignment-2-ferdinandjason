@@ -1,10 +1,37 @@
-# Sketching and Prototyping
+# Sketching and Prototyping for Zippyshare
 Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
+
+## Outline
+- [Sketching and Prototyping for Zippyshare](#sketching-and-prototyping-for-zippyshare)
+  - [Outline](#outline)
+  - [Part A: Sketches](#part-a-sketches)
+    - [1. Scan/Photo of Sketches](#1-scanphoto-of-sketches)
+      - [1.1. Solution Problem 1](#11-solution-problem-1)
+      - [1.2. Solution Problem 2](#12-solution-problem-2)
+    - [2. Version Differences](#2-version-differences)
+      - [2.1. Solution Problem 1](#21-solution-problem-1)
+        - [Problem](#problem)
+        - [Solution 1](#solution-1)
+        - [Solution 2](#solution-2)
+        - [Solution 3](#solution-3)
+      - [2.2. Solution Problem 2](#22-solution-problem-2)
+        - [Problem](#problem-1)
+        - [Solution 1](#solution-1-1)
+        - [Solution 2](#solution-2-1)
+        - [Solution 3](#solution-3-1)
+    - [3. Selected Sketch](#3-selected-sketch)
+      - [Problem 1](#problem-1)
+      - [Problem 2](#problem-2)
+    - [4. Design Rationale](#4-design-rationale)
+  - [Part B: Assumptions](#part-b-assumptions)
+    - [1. Hardware](#1-hardware)
+    - [2. Users](#2-users)
+  - [Part C: Prototypes](#part-c-prototypes)
 
 ## Part A: Sketches
 Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
 
-You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
+You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with  pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
 #### 1.1. Solution Problem 1
