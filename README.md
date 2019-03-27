@@ -27,6 +27,8 @@ Using the information in the results of Assignment 1 for what is good and bad ab
     - [1. Hardware](#1-hardware)
     - [2. Users](#2-users)
   - [Part C: Prototypes](#part-c-prototypes)
+    - [Low Fidelity](#low-fidelity)
+    - [High Fidelity](#high-fidelity)
 
 ## Part A: Sketches
 Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
@@ -99,4 +101,7 @@ The sketch and it's selection are made by designer considering perspective from 
 3. User age range from 8-60 years old.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+### Low Fidelity
+![Low Fidelity](img/low-fi.png)
+### High Fidelity
+Prototype can be accesed with https://invis.io/8XR80O32YHF
