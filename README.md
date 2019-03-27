@@ -83,7 +83,7 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 - Compared to solution 1, solution 1 need to having thick menubar. For small screen, maybe unresponsive.
 
 ### 4. Design Rationale
-The sketch and it's selection are made by designer considering perspective from non tech-savy. By using this method, we'll know what's wrong with the interface and what should we do to make it better.
+The sketch and it's selection are made by designer considering perspective from non tech-savy. By using this method, we'll know what's wrong with the interface and what should we do to make it better. From Contextual Inquiry user said that she need design that can intuitively describe it's purpose, so I proposed this design.
 
 ## Part B: Assumptions
 ### 1. Hardware
