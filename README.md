@@ -104,4 +104,4 @@ The sketch and it's selection are made by designer considering perspective from 
 ### Low Fidelity
 ![Low Fidelity](img/low-fi.png)
 ### High Fidelity
-Prototype can be accesed with https://invis.io/8XR80O32YHF (Revision)
+Prototype High Fidelity Video Demo : http://advancedautorepairtips.me/mpAH1SY3rQSA
